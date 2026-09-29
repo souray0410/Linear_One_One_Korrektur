@@ -1,0 +1,21 @@
+{
+  ".githooks/pre-push": "c7b883eb5560e43bce549517534e714182169a5a1e54540f18a7c64dc25e8581",
+  ".gitignore": "451c790cca09236e4a0338b2b9961ffa292ecdff208f982af9d67da083409f93",
+  "AGENTS.md": "11cb479c356b61510eddaa7654d92aa3df41f037eac870692867558915693ff7",
+  "README.md": "6e182e9486153330b7bc39f28272aadec44632eaf45565f338c54c3c4fe74767",
+  "examples/synthetic_arrays.py": "79240749dc9b18ac4d5d61f3256b62f8c56e7f10d7e50c938252609821a31ec7",
+  "pyproject.toml": "d4609f66a9090231cecec9eb445c36646151f2213670b0d3065d7a41c80eb901",
+  "src/look/__init__.py": "1f47000bba0324151f996cf55a69a4e8653d2eee3bb5ca47becd34d6292fd313",
+  "src/look/data/__init__.py": "1f47000bba0324151f996cf55a69a4e8653d2eee3bb5ca47becd34d6292fd313",
+  "src/look/data/interface.py": "87e78a39f1cfd1884882923a9d1787de8c767eb2156c82eec8df54aa46c62b91",
+  "src/look/methods/__init__.py": "1f47000bba0324151f996cf55a69a4e8653d2eee3bb5ca47becd34d6292fd313",
+  "src/look/methods/grouped_ridge.py": "f1b3ca93485010cae99b5a89152b8c40194d7db4fb8b53fac8f5cd6fc29c3575",
+  "src/look/methods/paired_moments.py": "90b358f377a939ac7ca50f7df5f2d450c17ac899bebed75ce60a3f87050cada7",
+  "src/look/methods/participant_statistics.py": "8ba3024da44fd5fc573de761a00c05e7a80c0e1b18a82f9db71dd69ca974cf2f",
+  "src/look/methods/rank_budget.py": "beb8474b9a3703064dc864b46716f715cacfccf3e80079737c1cc02097c1750d",
+  "tests/test_data_interface.py": "0cde5f9facf57e65afe8dff03c7e461eb28f52860fd8d35b3f1b149837815714",
+  "tests/test_publication_gate.py": "d32b41a5ddb1dc0a6ad2122e32fd89e112cb87cbf1c63c95fbaf2b61580bc8a8",
+  "tests/unit/methods/test_paired_moments.py": "83b3ca648a31cdb3bd23e4c34634ff384b141f455cf7b2ee86bcce0501533c2f",
+  "tests/unit/methods/test_participant_statistics.py": "4c4b5218a1ed0dafa303811c821a06215657051e3de2be664ad32a4a1d3a135b",
+  "tools/check_public_release.py": "cf1d7f9ab3a7f1555c148f39bad656a2a4689d63d993a9fa7456b081a92dd2b3"
+}

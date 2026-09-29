@@ -1,0 +1,3 @@
+# Public code boundary
+
+This repository contains only generic code and synthetic examples. Do not add dataset-specific names, source adapters, participant records, research reports, generated logs, credentials or model artifacts. Do not merge or push history from a research workspace. Review every added byte and update the approved file manifest only after review. Preserve third-party attribution where required; exclude material that cannot be published lawfully. No hosted CI or external archive is authorized by default. Run synthetic tests and the history-aware publication check before any push.
